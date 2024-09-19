@@ -1,0 +1,11 @@
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 15px 10px;
+}
+
+.mainTitle {
+  padding: 15px;
+  margin-bottom: 20px;
+}

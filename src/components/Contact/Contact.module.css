@@ -1,0 +1,27 @@
+.contactItem {
+  /* width: 100px; */
+  position: relative;
+}
+.contactName {
+  margin-bottom: 10px;
+}
+
+.contactDeleteBtn {
+  position: absolute;
+  right: 5px;
+  top: 10px;
+  display: flex;
+  padding: 0;
+  width: 60px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-weight: bold;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.icon {
+  margin-right: 10px;
+}
